@@ -1,0 +1,112 @@
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe.config
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.pdb
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CopyComplete
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.exe
+C:\Users\Artisans\Desktop\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe.config
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CopyComplete
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.exe
+C:\Users\Trong\Desktop\YADAS\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe.config
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CopyComplete
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.exe
+C:\Users\Trong\Desktop\YADAS - Sao chép\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe.config
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CopyComplete
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS UPDATE\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe.config
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CopyComplete
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe.config
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CopyComplete
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe.config
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YADAS.pdb
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.csproj.CopyComplete
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.exe
+C:\Users\Trong\Desktop\PANEL YADAS MAX\PANEL YADAS MAX\PANEL YADAS MAX\YADAS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YADAS.pdb

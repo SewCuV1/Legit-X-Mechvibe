@@ -1,0 +1,32 @@
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.exe.config
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.exe
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.pdb
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.CopyComplete
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.exe
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.pdb
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.exe.config
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.exe
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.pdb
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.AssemblyReference.cache
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.GenerateResource.cache
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.csproj.CopyComplete
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.exe
+C:\Users\Artisans\Downloads\SILEXT 5.0\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.pdb

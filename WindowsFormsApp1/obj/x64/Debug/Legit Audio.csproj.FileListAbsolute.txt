@@ -1,0 +1,39 @@
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\Legit Audio.csproj.AssemblyReference.cache
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\Legit Audio.csproj.SuggestedBindingRedirects.cache
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\MechKeyDroid.Form1.resources
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Login.resources
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\Legit Audio.csproj.GenerateResource.cache
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\Legit Audio.csproj.CoreCompileInputs.cache
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Legit Audio.exe.config
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Legit Audio.exe
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Legit Audio.pdb
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Guna.UI2.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\MetroFramework.Design.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\MetroFramework.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\MetroFramework.Fonts.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Microsoft.Win32.Registry.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.Asio.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.Core.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.Midi.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.Wasapi.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.WinForms.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.WinMM.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Obfuscator.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\System.Security.AccessControl.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\System.Security.Principal.Windows.dll
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.pdb
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.xml
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Microsoft.Win32.Registry.xml
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\System.Security.AccessControl.xml
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\bin\x64\Debug\System.Security.Principal.Windows.xml
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\Legit Audio.csproj.CopyComplete
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\Legit Audio.exe
+D:\.net obfucator\Bin\LVM V1 - Fix\WindowsFormsApp1\obj\x64\Debug\Legit Audio.pdb

@@ -1,0 +1,391 @@
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Memory.dll
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alber\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\LEGIT\Downloads\s_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LEGIT\Downloads\Panel lỗi phông chữ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C#\Gốc\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Duy Van\Downloads\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DuyVan\Desktop\SOURCE\SOURCE\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\C#\legit (1)\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Helper.dll
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\DuyVan\Downloads\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\aef\aef\adobe\LEGIT SUPER\HMMMM\LEGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\YADAS\elite\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\kkk\YADAS\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADASSSSS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Downloads\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADASSS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Trong\Desktop\YADASS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\YADAS (1)\YADAS\YADASS\Gia Đá\YADAS (1)\YADAS\DuyVanCuteeeee\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artisans\Desktop\YADAS\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.exe.config
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.exe
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SILEXT 5.0.pdb
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.exe
+C:\Users\Artisans\Desktop\SILEXT 5.0\DuyVan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SILEXT 5.0.pdb

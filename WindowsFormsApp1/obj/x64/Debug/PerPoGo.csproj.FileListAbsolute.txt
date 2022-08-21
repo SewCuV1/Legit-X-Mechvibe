@@ -1,0 +1,65 @@
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\PerPoGo.exe.config
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\PerPoGo.exe
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\PerPoGo.pdb
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.xml
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.AssemblyReference.cache
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.GenerateResource.cache
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.CoreCompileInputs.cache
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.CopyComplete
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.exe
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.pdb
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.dll
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\Guna.UI2.dll
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\Siticone.Desktop.UI.dll
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.pdb
+C:\Users\PerPoGo\Desktop\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\Memory.dll
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\PerPoGo.exe.config
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\PerPoGo.exe
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\PerPoGo.pdb
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.xml
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.AssemblyReference.cache
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.GenerateResource.cache
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.CoreCompileInputs.cache
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.Fody.CopyLocal.cache
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.CopyComplete
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.exe
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\PerPoGo.pdb
+C:\Users\PerPoGo\Desktop\Thư mục mới\DuyVan OffOn\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form_Alert.resources
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\PerPoGo.exe.config
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\PerPoGo.exe
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\PerPoGo.pdb
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.xml
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.AssemblyReference.cache
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.GenerateResource.cache
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.CoreCompileInputs.cache
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\PerPoGo.csproj.CopyComplete
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\PerPoGo.exe
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\obj\x64\Debug\PerPoGo.pdb
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.dll
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\Guna.UI2.dll
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\Memory.dll
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\Siticone.Desktop.UI.dll
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PerPoGo\Desktop\LEGIT ONOFF\WindowsFormsApp1\bin\x64\Debug\DiscordRPC.pdb
